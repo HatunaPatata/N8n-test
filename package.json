@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "n8n"
+    "start": "npx n8n"
   },
   "keywords": [],
   "author": "",
